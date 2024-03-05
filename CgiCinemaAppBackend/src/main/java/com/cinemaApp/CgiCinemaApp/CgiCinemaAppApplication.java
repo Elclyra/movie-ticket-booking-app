@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CgiCinemaAppApplication {
 	public static void test(){
-		System.out.println("test");
+		System.out.println("tes");
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(CgiCinemaAppApplication.class, args);
