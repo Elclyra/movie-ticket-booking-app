@@ -1,5 +1,6 @@
 /.idea/
 /CgiCinemaAppBackend/.idea/
-/CgiCinemaAppBackend/.mvn/
 /CgiCinemaAppBackend/HELP.md
 /CgiCinemaAppBackend/target/
+*.iml
+/CgiCinemaAppBackend/.mvn/wrapper/maven-wrapper.jar
